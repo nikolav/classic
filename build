@@ -1,0 +1,2 @@
+#!bash
+uglifyjs2 ./classic.jquery.dev.js -c -m -o ./dist/classic.js
