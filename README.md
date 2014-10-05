@@ -1,12 +1,10 @@
 [classic.js](https://github.com/nikolav/classic "classic.js")
 =============================================================
 
-[jQuey](http://jquery.com/ "jquery.js") plugin to batch-manipulate elements' classes
+[jQuery](http://jquery.com/ "jquery.js") plugin to batch-manipulate elements' class set in one go
 
 example usage
 -------------
-
-``
 
 
     // require jQuery and classic.js
